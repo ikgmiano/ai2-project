@@ -1,0 +1,2 @@
+model,training_records,validation_records,number_of_features,validation_accuracy,best_validation_logloss,best_iteration,stopping_iteration,early_stopping_rounds,loaded_model_accuracy
+Baseline XGBoost,64000,16000,54,0.8334375,0.36966898318913444,31,41,10,0.8334375
